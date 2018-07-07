@@ -1,0 +1,4 @@
+baseURL = "https://kexin-li.github.io/"
+languageCode = "en-us"
+title = "Zero Loop"
+theme = "aglaus"

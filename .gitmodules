@@ -1,0 +1,7 @@
+[submodule "themes/aglaus"]
+	path = themes/aglaus
+	url = git@github.com:dim0627/hugo_theme_aglaus.git
+[submodule "public"]
+	path = public
+	url = git@github.com:Kexin-Li/kexin-li.github.io.git
+	branch = master
